@@ -1,0 +1,7 @@
+EMAIL: romca3525@seznam.cz, HOST: smtp.seznam.cz, PORT: 587, USER: romca3525@seznam.cz, PASS: 741213Princezna
+EMAIL: revolutionarymediaapproach@seznam.cz, HOST: smtp.seznam.cz, PORT: 587, USER: revolutionarymediaapproach@seznam.cz, PASS: Byznys01@
+EMAIL: katka.vojackova@seznam.cz, HOST: smtp.seznam.cz, PORT: 587, USER: katka.vojackova@seznam.cz, PASS: Vk875630
+EMAIL: samuel1heinl@seznam.cz, HOST: smtp.seznam.cz, PORT: 587, USER: samuel1heinl@seznam.cz, PASS: Lukasek1235
+EMAIL: yayacode23@seznam.cz, HOST: smtp.seznam.cz, PORT: 587, USER: yayacode23@seznam.cz, PASS: maudiocode61
+EMAIL: romanajedlova@seznam.cz, HOST: smtp.seznam.cz, PORT: 587, USER: romanajedlova@seznam.cz, PASS: Kopretina123
+EMAIL: rostislavskoumal@seznam.cz, HOST: smtp.seznam.cz, PORT: 587, USER: rostislavskoumal@seznam.cz, PASS: rossi8604

@@ -1,0 +1,1 @@
+EMAIL: williambaird@tiscali.co.uk, HOST: smtp.tiscali.co.uk, PORT: 587, USER: williambaird@tiscali.co.uk, PASS: deTe92ct

@@ -1,0 +1,1 @@
+EMAIL: dam1120@mybluelight.com, HOST: smtp.mybluelight.com, PORT: 587, USER: dam1120@mybluelight.com, PASS: harryw

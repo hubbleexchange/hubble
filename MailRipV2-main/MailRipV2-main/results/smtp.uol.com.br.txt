@@ -1,0 +1,10 @@
+EMAIL: lemes.ferramentaria@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: lemes.ferramentaria@uol.com.br, PASS: alanis10
+EMAIL: walter-calfas@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: walter-calfas@uol.com.br, PASS: tg4115
+EMAIL: robertofuchs@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: robertofuchs@uol.com.br, PASS: pfrf0811
+EMAIL: ecbranca@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: ecbranca@uol.com.br, PASS: ec1948
+EMAIL: carvalho2014contabil@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: carvalho2014contabil@uol.com.br, PASS: RENA2404ta
+EMAIL: dmoscatelli@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: dmoscatelli@uol.com.br, PASS: Amoreco.1307
+EMAIL: fafsilva@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: fafsilva@uol.com.br, PASS: Jgr1tfk1!
+EMAIL: clovistcarvalho@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: clovistcarvalho@uol.com.br, PASS: Ct060539
+EMAIL: gil.pad@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: gil.pad@uol.com.br, PASS: gdp4651
+EMAIL: gmg.silva@uol.com.br, HOST: smtp.uol.com.br, PORT: 465, USER: gmg.silva@uol.com.br, PASS: Gabiegui10#

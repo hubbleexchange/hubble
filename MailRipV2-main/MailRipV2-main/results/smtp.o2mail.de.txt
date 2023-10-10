@@ -1,0 +1,2 @@
+EMAIL: gisela.giesbers-hoch@o2mail.de, HOST: smtp.o2mail.de, PORT: 465, USER: gisela.giesbers-hoch@o2mail.de, PASS: Marcella-09
+EMAIL: mijobatinic@o2mail.de, HOST: smtp.o2mail.de, PORT: 465, USER: mijobatinic@o2mail.de, PASS: 05011950

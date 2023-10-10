@@ -1,0 +1,1 @@
+EMAIL: simonemadlung@alice-dsl.de, HOST: smtp.alice-dsl.de, PORT: 587, USER: simonemadlung@alice-dsl.de, PASS: RoseRoyal

@@ -1,0 +1,1 @@
+EMAIL: henri.niehoff@posteo.de, HOST: posteo.de, PORT: 465, USER: henri.niehoff@posteo.de, PASS: 6dipoBosUx

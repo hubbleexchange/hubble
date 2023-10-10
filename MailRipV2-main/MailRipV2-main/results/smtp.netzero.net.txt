@@ -1,0 +1,1 @@
+EMAIL: rebecca111@netzero.net, HOST: smtp.netzero.net, PORT: 587, USER: rebecca111@netzero.net, PASS: pianos7787

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>web2zip.com - Save a website to ZIP</title>
+    <meta name="keywords" content="save web, get template, save template, get html, save html, save img, get css, bizweb, haravan, templatemonster, chili, w3layouts"/>
+    <meta name="description" content="web2zip allows you to download a page of website and compress all file to a ZIP file"/>
+    <link rel="alternate" hreflang="vi" href="http://web2zip.com/" />
+    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/css/bootstrap-theme.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/style.css?ver=1.1">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4FJ7ZDQ4T9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4FJ7ZDQ4T9');
+</script>
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="uXraFUf" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+</head>
+<body>
+<div class="main">
+    <h1><a href="/">web2zip</a></h1>
+    <h2><a href="/">Save a website to ZIP</a></h2>
+    <form id="getPage" method="post" action="get.php">
+        <input type="hidden" name="template" id="template" value="l1EipodjcM"/>
+        <div style="color: #737373; margin-bottom: 5px;">Templete <a href="https://www.chili.vn/" target="_blank">Chili</a>, <a href="https://themes.bizweb.vn/" target="_blank">Bizweb</a>, <a href="https://themes.haravan.com/" target="_blank">Haravan</a>, <a href="http://templatemonster.com/" target="_blank">Template Monster</a>, <a href="https://w3layouts.com/" target="_blank">W3Layouts</a>, <a href="http://snstheme.com/" target="_blank">SNS Theme</a>, <a href="https://www.creative-tim.com/" target="_blank">Creative Tim</a>, <a href="https://themeforest.net/" target="_blank">ThemeForest</a>, ...</div>
+        <div id="urls">
+            <div class="row wait">
+                <div class="col-xs-7 col-sm-8"><input class="form-control url" value="" placeholder="Enter web page url ..."/></div>
+                <div class="col-xs-5 col-sm-4">
+                    <div style="width: calc(100% - 36px); float: left; position: relative;">
+                        <input class="form-control file" value="" placeholder="Enter file name ..."/>
+                        <div style="position: absolute; top: 7px; right: 10px; z-index: 3; padding-left: 3px;">.html</div>
+                    </div>
+                    <div class="addmore"><i class="fa fa-plus-square fa-2x hue"></i><div class="loading"></div></div>
+                    <div style="clear: both;"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row" style="margin: auto; margin-top: 10px; width: 320px;">
+            <div class="col-xs-12 col-sm-12">
+                <button class="btn btn-danger" type="submit" style="width: 100%;">Start</button>
+            </div>
+        </div>
+        <div style="display: none;"><strong>Help!</strong> Enter each link to take, after take the whole page you can download files to the computer.</div>
+    </form>
+    <div id="mes-success" style="margin: auto; text-align: left;">
+        <div class="divider"><br/></div>
+        <div class="row">
+            <div class="col-sm-5 list"></div>
+            <div class="col-sm-7 download">
+                <form id="downZip" method="post" action="zip.php" style="text-align: center;">
+                    Enter code to download this template
+                    <input type="hidden" name="template" value=""/>
+                    <input type="text" name="code" class="form-control" style="width: 200px; text-align: center; margin: 5px auto; font-size: 21px; font-weight: bold; text-transform: uppercase;" autocomplete="off"/>
+                    <button type="submit" class="btn btn-success"><i class="glyphicon glyphicon-save-file"></i> Download</button>
+                    <div style="margin-top: 2px;">Free code: <a href="javascript:;" id="freeCode"><b>WEBTOZIP</b></a></div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div id="mes-wait">
+        <div class="cssload-container">
+            <div class="cssload-whirlpool"></div>
+        </div>
+    </div>
+</div>
+<div class="divider"></div>
+<section class="container" id="features">
+    <div class="col-md-12 how-does-it-work">
+        <div class="section-header col-md-10 col-md-offset-1" style="text-align: center;">
+            <h3 style="margin-top: 10px;">Features</h3>
+            <h4 class="lead" style="font-size: 18px;"><u>web2zip</u> allows you to <u>download a page of website</u> and compress all file to a ZIP file</h4>
+        </div>
+        <div class="section-body text-center">
+            <div class="row">
+                <div class="col-md-3 col-sm-3 col-xs-3 list-item">
+                    <i class="fa fa-html5 fa-4x hue"></i>
+                    <h5 style="font-size: 15px;">HTML</h5>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3 list-item">
+                    <i class="fa fa-css3 fa-4x hue"></i>
+                    <h5 style="font-size: 15px;">CSS &amp; JavaScript</h5>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3 list-item">
+                    <i class="fa fa-file-image-o fa-4x hue"></i>
+                    <h5 style="font-size: 15px;">Images</h5>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3 list-item">
+                    <i class="fa fa-font fa-4x hue"></i>
+                    <h5 style="font-size: 15px;">Fonts</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="text-align: center; font-weight: bold; margin-top: 20px; font-size: 21px;"><a href="beautify.php" target="_blank" style="color: #f75a27;">Online CSS/HTML/JavaScript beautifier</a></div>
+</section>
+</body>
+<script type="text/javascript" src="assets/js/jquery-2.0.3.min.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/main.js?ver=20180823"></script>
+</html>

@@ -1,0 +1,1 @@
+EMAIL: jsteinparzer@aon.at, HOST: smtp.a1.net, PORT: 587, USER: jsteinparzer@aon.at, PASS: Leo+Kofi

@@ -1,0 +1,3 @@
+MAIL: bruno.acosta@terra.com.br, HOST: smtp.sao.terra.com.br, PORT: 587, USER: bruno.acosta@terra.com.br, PASS: russia10
+MAIL: mgcirilo@terra.com.br, HOST: smtp.sao.terra.com.br, PORT: 587, USER: mgcirilo@terra.com.br, PASS: d07m07
+MAIL: robmlopes@terra.com.br, HOST: smtp.sao.terra.com.br, PORT: 587, USER: robmlopes@terra.com.br, PASS: r35157481711!

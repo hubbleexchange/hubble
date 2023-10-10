@@ -1,0 +1,11 @@
+EMAIL: ferdi.erken@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: ferdi.erken@ewe.net, PASS: cedrik
+EMAIL: mareike.schepers@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: mareike.schepers@ewe.net, PASS: Amira14
+EMAIL: sarah.2001@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: sarah.2001@ewe.net, PASS: delfin01
+EMAIL: christiane.freese@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: christiane.freese@ewe.net, PASS: luciaclp
+EMAIL: j.huelsbeck@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: j.huelsbeck@ewe.net, PASS: 260552Gj
+EMAIL: r.monalie46@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: r.monalie46@ewe.net, PASS: emmalie71
+EMAIL: michael@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: michael@ewe.net, PASS: preach3r
+EMAIL: johannes.sigloch@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: johannes.sigloch@ewe.net, PASS: Candynero2
+EMAIL: justin.homfeld@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: justin.homfeld@ewe.net, PASS: Airwolf2005
+EMAIL: nils.claasen@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: nils.claasen@ewe.net, PASS: spike1996
+EMAIL: udo.teekenboerg@ewe.net, HOST: smtp.ewe.net, PORT: 587, USER: udo.teekenboerg@ewe.net, PASS: yamaha125
